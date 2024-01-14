@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor Cassedy&#39;s Site</title>
+    <link>/</link>
+    <description>Recent content on Connor Cassedy&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/abilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/abilities/</guid>
+      <description>📊 Technical Skills Machine Learning Optimization Time Series Analysis Financial Markets Econometrics 💻 Programming Languages Python R MATLAB 📜 Certifications Security Industry Essentials Series 65 Life, Accident, and Health </description>
+    </item>
+    <item>
+      <title></title>
+      <link>/interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/interests/</guid>
+      <description>🌐 Romance Languages I am currently fluent in Spanish 🇪🇸 and French 🇫🇷, and I look forward to learning Italian 🇮🇹 and Portuguese 🇵🇹 🇧🇷 next! 🚣 Rowing I have rowed competitively for UChicago, Northwestern, and Lincoln Park Boat Club. The sport has enrinched my life by fostering discipline, teamwork, and collaboration! 📷 Photography Taking photographs has always been a passion of mine, and I love to explore innovative methods that conventional photgraphers have not used.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description>Modelling the Effects of a Carbon Tax for Scandinavian Countries Used Python and its libraries to develop models on how carbon taxes have affected fossil fuel emissions in Scandinavia. GitHub Repository
+The Future of Corporate Real Estate and Hospitality in a Pandemic Applied Industrial Organization methods to develop a breakdown of industry-wide costs and revenues for hotels under strain from the effects of the COVID-19 Pandemic GitHub Repository</description>
+    </item>
+    <item>
+      <title>Educational Background</title>
+      <link>/aboutme/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/aboutme/first/</guid>
+      <description>I am currently a Masters student at Northwestern University who studies Data Science with a specialization in Artificial Intelligence. Previously, I studied at the University of Chicago and completed a BS in Mathematics with a specialization in Economics.</description>
+    </item>
+    <item>
+      <title>Professional Background</title>
+      <link>/aboutme/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/aboutme/second/</guid>
+      <description>I have gained valuable professional experience in the working as a Neural Engineer and Business Research Assistant at CUHK. I hope to explore roles in Quant Trading after I finish my Masters.</description>
+    </item>
+  </channel>
+</rss>

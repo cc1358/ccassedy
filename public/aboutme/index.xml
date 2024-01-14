@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aboutmes on Connor Cassedy&#39;s Site</title>
+    <link>/aboutme/</link>
+    <description>Recent content in Aboutmes on Connor Cassedy&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Educational Background</title>
+      <link>/aboutme/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/aboutme/first/</guid>
+      <description>I am currently a Masters student at Northwestern University who studies Data Science with a specialization in Artificial Intelligence. Previously, I studied at the University of Chicago and completed a BS in Mathematics with a specialization in Economics.</description>
+    </item>
+    <item>
+      <title>Professional Background</title>
+      <link>/aboutme/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/aboutme/second/</guid>
+      <description>I have gained valuable professional experience in the working as a Neural Engineer and Business Research Assistant at CUHK. I hope to explore roles in Quant Trading after I finish my Masters.</description>
+    </item>
+  </channel>
+</rss>

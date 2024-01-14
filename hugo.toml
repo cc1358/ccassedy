@@ -1,3 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = ""
+languageCode = "en-us"
+title = "Connor Cassedy's Site"
+theme = "PaperMod"
+
+
+[[menu.main]]
+  identifier = "abilities"
+  name = "Abilities"
+  url = "/abilities/"
+  weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "interests"
+    name = "Interests"
+    url = "/interests/"
+    weight = 30
+
+
+    
