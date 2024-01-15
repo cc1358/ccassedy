@@ -1,8 +1,7 @@
-baseURL = "https://jazzy-trifle-04bb05.netlify.app"
+baseURL = "https://jazzy-trifle-04bb05.netlify.app/"
 languageCode = "en-us"
 title = "Connor Cassedy's Site"
 theme = "PaperMod"
-
 
 [[menu.main]]
   identifier = "abilities"
@@ -10,17 +9,16 @@ theme = "PaperMod"
   url = "/abilities/"
   weight = 10
 
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 20
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 20
 
-  [[menu.main]]
-    identifier = "interests"
-    name = "Interests"
-    url = "/interests/"
-    weight = 30
-
+[[menu.main]]
+  identifier = "interests"
+  name = "Interests"
+  url = "/interests/"
+  weight = 30
 
     
